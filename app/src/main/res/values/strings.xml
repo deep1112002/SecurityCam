@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecurityCam</string>
+    <string name="enter_the_ip_for_it">Enter the ip for it</string>
+    <string name="submit">Submit</string>
+</resources>
